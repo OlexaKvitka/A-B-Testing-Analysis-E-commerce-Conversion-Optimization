@@ -3,6 +3,9 @@
 ## Project Purpose:
 Analyze the results of 4 A/B tests using statistical methods (z-test) in Python to determine which variations significantly improve conversion metrics and create a visualization. which will represent it
 
+## Project Preview: 
+![A_B_Test_Metric_Changes_Test_vs_Control](A_B_Test_Metric_Changes_Test_vs_Control.PNG)
+
 ## Methodology
 - **Statistical Test:** Two-proportion z-test
 - **Significance Level:** α = 0.05

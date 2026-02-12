@@ -16,7 +16,7 @@ Analyze the results of 4 A/B tests using statistical methods (z-test) in Python 
 2. CSV file with result extract: https://drive.google.com/file/d/1bYT0VibyKs7ja1Gif30sg5XK2tG1wZAq/view?usp=sharing
 3. Tableau dashboard: https://public.tableau.com/views/ABTest_17638526161470/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Tableau Preview:
-![Tableau Dashboard Performance](A_B_Test_Dashboard.png)
+![Tableau Dashboard Performance](https://github.com/OlexaKvitka/A-B-Testing-Analysis-E-commerce-Conversion-Optimization/blob/main/A_B_Test_Dashboard.PNG)
 
 ## Project Structure
 - **STEP 1:** Data Collection and Overview
